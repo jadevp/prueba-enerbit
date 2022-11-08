@@ -1,0 +1,1 @@
+export const Apiurl = "https://ops.enerbit.dev/learning/ ";
